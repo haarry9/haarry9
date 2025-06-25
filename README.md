@@ -16,15 +16,6 @@ Ready to build something amazing together? 🚀
 
 Find me on twitter at x.com or drop an email
 
-## My Github Stats
-
-![Github Stats 3](https://github-readme-stats.vercel.app/api?username=haarry9)
-
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=haarry9)
-
-![Githu Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=haarry9)
-
-
 <!--
 **campusx-official/campusx-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
