@@ -14,7 +14,7 @@ I'm always diving into new tools and tech to sharpen my skills and stay on the c
 
 Ready to build something amazing together? 🚀
 
-Find me on [LinkedIn]([https://x.com/yourhandle](https://www.linkedin.com/in/hspv/)) or [drop an email](mailto:hspv99@gmail.com)
+Find me on [LinkedIn](https://www.linkedin.com/in/hspv/) or [drop an email](mailto:hspv99@gmail.com)
 
 
 <!--
