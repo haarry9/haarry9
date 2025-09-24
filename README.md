@@ -14,7 +14,8 @@ I'm always diving into new tools and tech to sharpen my skills and stay on the c
 
 Ready to build something amazing together? 🚀
 
-Find me on twitter at x.com or drop an email
+Find me on [LinkedIn]([https://x.com/yourhandle](https://www.linkedin.com/in/hspv/)) or [drop an email](mailto:hspv99@gmail.com)
+
 
 <!--
 **campusx-official/campusx-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
